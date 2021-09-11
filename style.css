@@ -1,0 +1,14 @@
+/* .btn{
+    align-items: right;
+    margin-left: 900px;
+    margin-top: 900p;
+}  */
+/* *{
+} */
+.button-class{
+    margin-top: 40%;
+    margin-left: 90%;
+    /* display: inline-flex; */
+    position: relative;
+    border-radius: 10%;
+}
